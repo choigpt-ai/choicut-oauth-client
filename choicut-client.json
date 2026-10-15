@@ -1,0 +1,16 @@
+{
+  "client_id": "https://choigpt-ai.github.io/choicut-oauth-client/choicut-client.json",
+  "client_name": "ChoiCut Studio",
+  "redirect_uris": [
+    "http://127.0.0.1:47831/api/providers/zcre/callback",
+    "http://127.0.0.1:47831/api/providers/higgsfield/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
