@@ -1,0 +1,10 @@
+{
+  "client_id": "https://choigpt-ai.github.io/choicut-oauth-client/native-client.json",
+  "client_name": "ChoiCut Studio",
+  "client_uri": "https://github.com/choigpt-ai/choicut-oauth-client",
+  "application_type": "native",
+  "redirect_uris": [
+    "http://127.0.0.1:47831/api/providers/zcre/callback"
+  ],
+  "token_endpoint_auth_method": "none"
+}
